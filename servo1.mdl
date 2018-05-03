@@ -1,16 +1,15 @@
 Model {
   Name			  "servo1"
-  Version		  6.5
+  Version		  1.0
   MdlSubVersion		  0
   GraphicalInterface {
     NumRootInports	    0
     NumRootOutports	    0
     ParameterArgumentNames  ""
-    ComputedModelVersion    "1.38"
+    ComputedModelVersion    "1.0"
     NumModelReferences	    0
     NumTestPointedSignals   0
   }
-  SavedCharacterEncoding  "windows-1252"
   SaveDefaultBlockParams  on
   SampleTimeColors	  off
   LibraryLinkDisplay	  "none"
